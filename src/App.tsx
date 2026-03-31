@@ -14,7 +14,7 @@ const CONTENT = {
 Thành Cổ Quảng Trị không chỉ là một di tích, mà là một khúc tráng ca bất tử. Nơi đây đã chứng kiến 81 ngày đêm lịch sử năm 1972, nơi mỗi tấc đất đều thấm đẫm máu xương của những người anh hùng ngã xuống vì độc lập tự do.
 
 Bên cạnh đó, Địa đạo Vịnh Mốc là minh chứng sống động cho sức sống mãnh liệt của con người Quảng Trị. Một "lũy thép dưới lòng đất" với hệ thống hầm ngầm phức tạp, nơi sự sống vẫn nảy mầm ngay dưới mưa bom bão đạn, thể hiện ý chí sinh tồn và khát vọng hòa bình bất diệt.`,
-    image: "https://picsum.photos/seed/citadel/1000/1200"
+    image: "https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240926/images/T10hung.jpg"
   },
   vanhoa: {
     title: "Hồn Quê Đậm Đà",
@@ -24,7 +24,7 @@ Bên cạnh đó, Địa đạo Vịnh Mốc là minh chứng sống động cho
 Nơi đây lưu giữ những làn điệu dân ca Bình Trị Thiên mộc mạc mà sâu lắng, những câu hò mái nhì, mái tấu chứa chan tình cảm. Các lễ hội truyền thống như Lễ hội đua thuyền trên sông Thạch Hãn, hay Lễ hội rước kiệu La Vang không chỉ là dịp sinh hoạt tín ngưỡng mà còn là sợi dây gắn kết cộng đồng bền chặt.
 
 Tinh thần tôn sư trọng đạo, uống nước nhớ nguồn luôn được người dân nơi đây gìn giữ và truyền lại qua bao thế hệ, tạo nên một bản sắc văn hóa kiên cường nhưng cũng rất đỗi dịu dàng.`,
-    image: "https://picsum.photos/seed/culture/1000/1200"
+    image: "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/4/30/1186673/Dua-Thuyen-1.jpg"
   },
   amthuc: {
     title: "Hương Vị Nắng Gió",
@@ -34,7 +34,7 @@ Tinh thần tôn sư trọng đạo, uống nước nhớ nguồn luôn được
 Món Cháo vạt giường (cháo cá lóc Hải Lăng) là đặc sản không thể bỏ qua. Sợi bột gạo dai mềm hòa quyện cùng nước dùng ngọt thanh và thịt cá lóc săn chắc, thêm chút ớt cay nồng làm ấm lòng thực khách.
 
 Thịt trâu lá trơng mang hương vị núi rừng đặc trưng, vị ngọt của thịt trâu kết hợp với vị cay nồng, thơm hăng của lá trơng tạo nên một trải nghiệm vị giác khó quên. Và không thể không nhắc đến Bánh lọc Mỹ Chánh, món bánh nhỏ xinh, trong vắt, gói ghém tinh túy từ củ sắn và tôm sông tươi rói.`,
-    image: "https://picsum.photos/seed/food/1000/1200"
+    image: "https://media2.gody.vn/public/images/posts/2019/11/12/hiep.nguyen9257/thumbnail-600/d72554acec461ef3e26a4fec1d3e560a637c74b1.jpg"
   },
   connguoi: {
     title: "Nghĩa Tình Trọn Vẹn",
@@ -44,7 +44,7 @@ Thịt trâu lá trơng mang hương vị núi rừng đặc trưng, vị ngọt
 Họ không chỉ dũng cảm trong chiến đấu mà còn cần cù, sáng tạo trong lao động. Dù cuộc sống có khó khăn, người Quảng Trị vẫn luôn giữ nụ cười trên môi, sống chân chất, mộc mạc và vô cùng hiếu khách. 
 
 Tình người nơi đây ấm áp như chính cái nắng của miền Trung, luôn sẵn sàng dang tay chào đón và giúp đỡ những người phương xa, để lại trong lòng du khách những ấn tượng khó phai về một vùng đất trọn vẹn nghĩa tình.`,
-    image: "https://picsum.photos/seed/people/1000/1200"
+    image: "https://cdn.tienphong.vn/images/814b5533c866dc3540018a126103e935266bb6b1fc299e6fef1b3f7119d94880cb6a23ab069075280aee78327a0630ece3f5fdf5482e1d112a8d89aa0473869457dc4455c7b1f38f0c0e2378100941d8671476b6753bf61cc2a32a28fbec8be8/0006c-thanh-co-quang-tri-len-den-2910-7090.jpg"
   }
 };
 
